@@ -36,6 +36,6 @@ function generateIdeas() {
     var personality = chooseRandomFromArray(personalities);
     var genre = chooseRandomFromArray(genres);
 
-    var sentence = `${toTitle(identifier(plot))} ${plot} story about ${identifier(personality)} ${personality} couple. The genre is ${genre} and takes place in ${identifier(au)} ${au} setting.`;
+    var sentence = `${toTitle(identifier(plot))} ${plot} story about ${identifier(personality)} ${personality} couple. The story is ${genre} and takes place in ${identifier(au)} ${au} setting.`;
     document.getElementById("sentence").innerHTML = sentence;
 }

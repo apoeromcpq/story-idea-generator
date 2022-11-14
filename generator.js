@@ -1,7 +1,7 @@
 const vowels = ['a', 'e', 'i', 'o', 'u'];
-const plots = ["friends to lovers", "enemies to lovers", "rivals to lovers", "misunderstandings", "getting back together", "meeting years later", "strangers to lovers"];
-const personalities = ["sun and moon", "opposites attract", "old married couple", "loud & listens quietly", "introvert & extrovert", "overprotective"];
-const genres = ["fluff", "angst", "hurt/comfort", "lighthearted", "melancholy", "bittersweet", "angst with a happy ending"];
+const plots = ["friends to lovers", "enemies to lovers", "rivals to lovers", "misunderstandings", "getting back together", "meeting years later", "strangers to lovers", "breakup", "hanahaki", "unrequieted love"];
+const personalities = ["sun and moon", "polar opposites", "always bickering", "loud & listens quietly", "introvert & extrovert", "overprotective", "idiots in love", "star-crossed lovers"];
+const genres = ["fluff", "angst", "hurt/comfort", "lighthearted", "melancholy", "bittersweet", "angst with a happy ending", "crack"];
 const aus = ["roommates", "neighbours", "soulmates", "high school", "college", "mafia", "occupations", "canon"];
 const occupations = ["tattoo artist", "florist", "coffee shop", "college student", "actor", "singer", "office worker"];
 

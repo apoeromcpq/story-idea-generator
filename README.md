@@ -1,1 +1,1 @@
-This is a simple project that I made as an introduction to HTML, CSS, and JavaScript. Click the 'generate idea' button and get a prompt that can help kickstart your fanfiction or original story!
+A website that generates a somewhat coherent prompt by clicking the "generate idea" button. I made this project to test out my HTML and CSS skills (they were shit) and have not used it once since creating it.
